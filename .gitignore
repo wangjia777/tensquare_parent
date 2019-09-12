@@ -1,0 +1,17 @@
+# Project exclude paths
+/tensquare_article/target/
+/tensquare_base/target/
+/tensquare_common/target/
+/tensquare_config/target/
+/tensquare_eureka/target/
+/tensquare_friend/target/
+/tensquare_gathering/target/
+/tensquare_manager/target/
+/tensquare_qa/target/
+/tensquare_rabbitmqtest/target/
+/tensquare_recruit/target/
+/tensquare_search/target/
+/tensquare_sms/target/
+/tensquare_spit/target/
+/tensquare_user/target/
+/tensquare_web/target/
